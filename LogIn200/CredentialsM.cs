@@ -32,8 +32,7 @@ namespace LogIn200
         /// </summary>
         /// <param name="un">The default user name</param>
         /// <param name="up">The default password</param>
-        public CredentialsM(String un, String up)
-        {
+        public CredentialsM(String un, String up)        {
             Uname = un;
             Password = up;
         }
